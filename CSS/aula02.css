@@ -1,0 +1,24 @@
+body{
+    font-family:'Times New Roman', Times,serif;
+    color: #000000;
+    Font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header a{
+    color: #000000;
+}
+main{
+    flex: 1;
+}
+footer{ 
+    height: 150px;
+    padding: 1%;
+    margin-top: 0px;   
+}
+header{
+     height: 150px;
+    padding: 1%;
+    margin-top: 0px;
+}

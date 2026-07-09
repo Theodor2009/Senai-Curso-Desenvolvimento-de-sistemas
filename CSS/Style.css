@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(167, 113, 89, 0.87);
+    color: rgb(18, 107, 80);
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+}
+
+footer, footer a{
+    background-color: #00008A; 
+    color: White;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
