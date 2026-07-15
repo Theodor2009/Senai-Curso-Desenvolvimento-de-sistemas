@@ -34,8 +34,8 @@ public class Cliente {
         idClientes.add(novoId);
         System.out.println("Cadastro realizado com sucesso!");
         System.out.println("ID do cliente: " + novoId);
-        
 
+        
     }
     void atualizarCliente(){
         System.out.println("Iremos iniciar a atualização do cadastro");
