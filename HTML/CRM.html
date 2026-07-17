@@ -1,41 +1,53 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <title>Home</title>
-    <p>Bem-vindo ao Sistema</p>
+    <title>CRM-coooll</title>
   </head>
+  <header>
+    <main>
+      <section class="banner">
+        <img src="../img/geralt-banner-1036483_1920.jpg" alt="Banner" />
+        <div class="texto-banner">
+          <h1>Bem-vindo ao Sistema</h1>
+        </div>
+      </section>
+        <section class="empresa">
+        <h2>Nome da Empresa</h2>
+        <h3>Vetor</h3>
+        <p>Informações sobre a empresa.</p>
+        <h4>tenho odio por LGBTS</h4>
+        </section>  
+    </main>
+  </header>
   <body>
-          <ul>
-                <li><a href="#">Cadastro</a></li>
-                <li><a href="#">Consulta</a></li>
-                <li><a href="#">Relatórios</a></li>
-                <li><a href="#">Auditoria</a></li>
-            </ul>
-        </nav>
-    </header>
-        <main>
-            <span>Aqui é o corpo</span>
-            <section>
-                <p>Aqui nos damos consultoria para clientes</p>
-                <p>Vendemos produtos</p>
-                <p>Construimos CRM's para o seu negócio</p>
-            </section>
-        </main>
-        <footer>
-            <p>Aqui é o rodapé</p>
-        <ul>
-            <li><a href="#">Quem Somos</a></li>
-            <li><a href="#">Telefone</a></li>
-            <li><a href="#">Endereço</a></li>
-            </a></li>
-        </ul>
-        <ul>
-            <li><a href="#">Email</a></li>
-            <li><a href="#">Whazzap</a></li>
-            <li><a href="#">Instagram</a></li>
-        </ul>
+    <title>Cadastro de Clientes</title>
+    <link rel="stylesheet" href="../CSS/CRM.css" />
+    <div class="container">
+      <h2>Cadastro de Clientes</h2>
+      <input type="text" placeholder="Nome do Cliente" />
+      <input type="text" placeholder="Email do Cliente" />
+      <input type="text" placeholder="Telefone do Cliente" />
+      <button type="submit">Cadastrar</button>
+    </div>
+    <div class="container">
+      <h2>Consulta de Clientes</h2>
+      <button type="submit">Consultar</button>
+    </div>
+    <div class="container">
+      <h1>Relatórios</h1>
+    <button onclick="gerarRelatorio()">Gerar Relatório</button>
+    <div id="relatorio"></div>
+    <script src="script.js"></script>
+    </div>
+    <div class="container">
+      <h2>Auditoria</h2>
+      <button type="submit">Auditar</button>
+    </div>
+      <div class="container">
+       
+      </div>
+    </div>
   </body>
 </html>
