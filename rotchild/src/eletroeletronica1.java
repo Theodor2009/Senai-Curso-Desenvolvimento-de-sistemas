@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class eletroeletronica1 {
     public static void main() {
         boolean a = false;
@@ -7,3 +8,14 @@ public class eletroeletronica1 {
         System.out.println(c);
     }
 }
+=======
+public class eletroeletronica1 {
+    public static void main() {
+        boolean a = false;
+        boolean b = true;
+        boolean c = a & b;
+
+        System.out.println(c);
+    }
+}
+>>>>>>> origin/main

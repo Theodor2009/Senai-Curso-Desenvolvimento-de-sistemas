@@ -1,21 +1,36 @@
+<<<<<<< HEAD
 # Senai-Curso-Desenvolvimentp-de-sistemas
 
 Bem-vindo(a) a este repositório!
+=======
+# Senai-Curso-Desenvolvimento-de-sistemas
+
+Bem-vindo(a) a este repositório! 
+>>>>>>> origin/main
 
 Este espaço foi criado para armazenar todas as atividades, projetos, exercícios e desafios desenvolvidos durante o curso de **Desenvolvimento de Sistemas**.
 
 ## Objetivos
 
+<<<<<<< HEAD
 - Aplicar os conhecimentos adquiridos em aula.
 - Praticar lógica de programação e resolução de problemas.
 - Desenvolver projetos utilizando diferentes tecnologias.
 - Organizar o código de forma clara e documentada.
 - Acompanhar minha evolução como desenvolvedor.
+=======
+* Aplicar os conhecimentos adquiridos em aula.
+* Praticar lógica de programação e resolução de problemas.
+* Desenvolver projetos utilizando diferentes tecnologias.
+* Organizar o código de forma clara e documentada.
+* Acompanhar minha evolução como desenvolvedor.
+>>>>>>> origin/main
 
 ## Tecnologias
 
 Ao longo do curso, serão utilizadas tecnologias como:
 
+<<<<<<< HEAD
 - HTML5
 - CSS3
 - JavaScript
@@ -23,6 +38,16 @@ Ao longo do curso, serão utilizadas tecnologias como:
 - Banco de Dados (SQL)
 - Git e GitHub
 - Outras ferramentas e linguagens conforme o andamento do curso.
+=======
+* HTML5
+* CSS3
+* JavaScript
+* Java
+* Python
+* Banco de Dados (SQL)
+* Git e GitHub
+* Outras ferramentas e linguagens conforme o andamento do curso.
+>>>>>>> origin/main
 
 ## Estrutura do Repositório
 
