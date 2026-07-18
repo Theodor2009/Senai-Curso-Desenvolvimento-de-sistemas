@@ -2,11 +2,7 @@
 # Senai-Curso-Desenvolvimentp-de-sistemas
 
 Bem-vindo(a) a este repositório!
-=======
-# Senai-Curso-Desenvolvimento-de-sistemas
 
-Bem-vindo(a) a este repositório! 
->>>>>>> origin/main
 
 Este espaço foi criado para armazenar todas as atividades, projetos, exercícios e desafios desenvolvidos durante o curso de **Desenvolvimento de Sistemas**.
 
